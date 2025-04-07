@@ -1,9 +1,4 @@
-Sure! Here's a professional `README.md` file for your **Tech Website**, using the Vercel link you provided for the live demo:
 
----
-
-```markdown
-# ⚡ Tech Landing Page
 
 Welcome to the **Tech Website** – a sleek, modern, and fully responsive landing page built with **React** and **Vite**. This project showcases a professional tech service layout with smooth animations, clean UI, and a great user experience.
 
