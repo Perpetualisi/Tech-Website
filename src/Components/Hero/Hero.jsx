@@ -1,4 +1,3 @@
-
 import React from "react";
 import "./Hero.css";
 
@@ -8,11 +7,7 @@ const Hero = () => {
       <div className="hero-content">
         <h1>Welcome to TECH</h1>
         <p>Innovating the future, one step at a time.</p>
-        <br />
-        <br />
-        <a href="#services" className="btn">
-          Get Started
-        </a>
+        <a href="#services" className="btn">Get Started</a>
       </div>
     </section>
   );

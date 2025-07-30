@@ -9,28 +9,27 @@ const Contact = () => {
 
         <div className="contact-info">
           <div className="info-box">
-            <h3>📍 Our Location</h3>
+            <h3>📍 Location</h3>
             <p>Lagos, Nigeria</p>
           </div>
           <div className="info-box">
-            <h3>📞 Call Us</h3>
-            <p>+234-810-355-8837</p>
+            <h3>📞 Phone</h3>
+            <p>+234-123-456-7890</p>
           </div>
           <div className="info-box">
-            <h3>📧 Email Us</h3>
-            <p>perpetualokan0@gmail.com</p>
+            <h3>📧 Email</h3>
+            <p>Tech0@gmail.com</p>
           </div>
           <div className="info-box">
-            <h3>⏰ Opening Hours</h3>
-            <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
-            <p>Saturday: 10:00 AM - 4:00 PM</p>
-            <p>Sunday: Closed</p>
+            <h3>⏰ Hours</h3>
+            <p>Mon–Fri: 9:00 AM – 6:00 PM</p>
+            <p>Sat: 10:00 AM – 4:00 PM</p>
+            <p>Sun: Closed</p>
           </div>
         </div>
 
         <div className="map-container">
           <h3>📍 Find Us on Map</h3>
-          <br />
           <iframe
             title="Google Map"
             className="google-map"
@@ -42,7 +41,6 @@ const Contact = () => {
 
         <div className="contact-form">
           <h3>📩 Send a Message</h3>
-          <br />
           <form>
             <input type="text" placeholder="Your Name" required />
             <input type="email" placeholder="Your Email" required />
